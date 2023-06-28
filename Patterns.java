@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Patterns {
-    
+public class Patterns 
+{
     public static void main(String args[]) 
     {
         Scanner sc = new Scanner(System.in);
@@ -65,4 +65,22 @@ public class Patterns {
             }
         }   
     }
+
+    // ---------------------------------------------------------------------------------------------------------------------------
+    public static void solidRectangle(int r, int c)
+    {
+        for(int i=0; i<r; i++){
+            for(int j=0; j<c; j++)
+                System.out.print("* ");
+            System.out.println("");
+        }
+    }
+   // ---------------------------------------------------------------------------------------------------------------------------
+
+
+
+    
+}
+
+    
 
