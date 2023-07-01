@@ -142,6 +142,16 @@ public class Patterns
     }
 
     // ---------------------------------------------------------------------------------------------------------------------------
+    public static void numberHalfPyramid2(int n)
+    {
+        for(int i=0; i<n; ++i){
+            for(int j=0; j<=i; ++j)
+                System.out.printf("%d ", j+1);
+            System.out.println("");
+        }
+    }
+
+    // ---------------------------------------------------------------------------------------------------------------------------
     public static void iNumberHalfPyramid(int n)
     {
         for(int i=0; i<n; i++){
@@ -273,8 +283,7 @@ public class Patterns
         }
     }
     
-    
-} 
+} // END OF Patterns CLASS
 
     
 
