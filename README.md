@@ -1,6 +1,6 @@
 # Patterns_Programs_in_Java
 
-- ![0](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/f8ecd9eb-619d-4124-a061-c4719ee87a55)
+![0](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/f8ecd9eb-619d-4124-a061-c4719ee87a55)
 
 ![2](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/c46e171c-c62e-4166-800e-f3533427638b)
 
