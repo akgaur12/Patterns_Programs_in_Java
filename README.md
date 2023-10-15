@@ -1,8 +1,8 @@
 # Patterns_Programs_in_Java
 
-![0](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/f8ecd9eb-619d-4124-a061-c4719ee87a55)
+<img src="https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/f8ecd9eb-619d-4124-a061-c4719ee87a55" alt="Project GUI1" width="40%">
 
-![2](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/c46e171c-c62e-4166-800e-f3533427638b)
+
 
 ![3](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/79ab4fbc-551c-4360-8c67-e5400e1f0431)
 
@@ -16,4 +16,7 @@
 
 ![8](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/51652305-04a0-49c0-b20b-d1e0162d2930)
 
+
 ![9](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/8c8ad1a5-21c0-4fe7-a8a3-e384e6495bfc)
+
+
