@@ -16,12 +16,4 @@
 
 <img src="https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/51652305-04a0-49c0-b20b-d1e0162d2930" alt="Project GUI1" width="30.8%">
 
-
-![7]()
-
-![8]()
-
-
-![9](https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/8c8ad1a5-21c0-4fe7-a8a3-e384e6495bfc)
-
-
+<img src="https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/8c8ad1a5-21c0-4fe7-a8a3-e384e6495bfc" alt="Project GUI1" width="32.7%">
