@@ -1,4 +1,4 @@
-# Patterns_Programs_in_Java
+# Patterns Programs in Java
 
 <img src="https://github.com/akgaur12/Patterns_Programs_in_Java/assets/134853842/f8ecd9eb-619d-4124-a061-c4719ee87a55" alt="Project GUI1" width="36%">
 
